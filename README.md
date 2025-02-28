@@ -36,7 +36,7 @@ Thank you for using this program!
 ```
 
 ---
-## Installment
+## Installation
 
 1. Ensure you have git installed.
 2. Fire up your directory in your IDE.
